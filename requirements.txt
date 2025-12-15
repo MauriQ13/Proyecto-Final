@@ -1,0 +1,4 @@
+# Dependencias para la Aplicación de Programación Lineal
+# Instalar con: pip install -r requirements.txt
+
+PuLP>=2.7.0
